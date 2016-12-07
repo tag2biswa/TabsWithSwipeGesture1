@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\eCOMMERCE\\MobileApp\\source\\TabsWithSwipeGesture1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "C:\\eCOMMERCE\\MobileApp\\source\\TabsWithSwipeGesture1\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\eCOMMERCE\\MobileApp\\source\\TabsWithSwipeGesture1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_top_rated.xml",
+        "source": "C:\\eCOMMERCE\\MobileApp\\source\\TabsWithSwipeGesture1\\app\\src\\main\\res\\layout\\fragment_top_rated.xml"
+    },
+    {
+        "merged": "C:\\eCOMMERCE\\MobileApp\\source\\TabsWithSwipeGesture1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_movies.xml",
+        "source": "C:\\eCOMMERCE\\MobileApp\\source\\TabsWithSwipeGesture1\\app\\src\\main\\res\\layout\\fragment_movies.xml"
+    },
+    {
+        "merged": "C:\\eCOMMERCE\\MobileApp\\source\\TabsWithSwipeGesture1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\eCOMMERCE\\MobileApp\\source\\TabsWithSwipeGesture1\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\eCOMMERCE\\MobileApp\\source\\TabsWithSwipeGesture1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_games.xml",
+        "source": "C:\\eCOMMERCE\\MobileApp\\source\\TabsWithSwipeGesture1\\app\\src\\main\\res\\layout\\fragment_games.xml"
+    },
+    {
+        "merged": "C:\\eCOMMERCE\\MobileApp\\source\\TabsWithSwipeGesture1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\eCOMMERCE\\MobileApp\\source\\TabsWithSwipeGesture1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\eCOMMERCE\\MobileApp\\source\\TabsWithSwipeGesture1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\offer_card.xml",
+        "source": "C:\\eCOMMERCE\\MobileApp\\source\\TabsWithSwipeGesture1\\app\\src\\main\\res\\layout\\offer_card.xml"
+    }
+]

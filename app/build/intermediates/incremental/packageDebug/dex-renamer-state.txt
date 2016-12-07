@@ -1,0 +1,7 @@
+#Sun Dec 04 10:50:25 IST 2016
+base.0=C\:\\eCOMMERCE\\MobileApp\\source\\TabsWithSwipeGesture1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_04c5b74ca98eec4fb1a5773be2221f640e0b8ca4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\eCOMMERCE\\MobileApp\\source\\TabsWithSwipeGesture1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0824ed12eeae0abf3cac197178e2d007cef3bd36\\classes.dex
+base.1=C\:\\eCOMMERCE\\MobileApp\\source\\TabsWithSwipeGesture1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0824ed12eeae0abf3cac197178e2d007cef3bd36
+file.0=C\:\\eCOMMERCE\\MobileApp\\source\\TabsWithSwipeGesture1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_04c5b74ca98eec4fb1a5773be2221f640e0b8ca4\\classes.dex

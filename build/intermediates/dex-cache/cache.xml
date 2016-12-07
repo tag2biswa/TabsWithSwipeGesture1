@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\eCOMMERCE\MobileApp\source\TabsWithSwipeGesture1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\eCOMMERCE\MobileApp\source\TabsWithSwipeGesture1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_763e8a53e28fade4dbea809c2c62c04b6d3235e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\eCOMMERCE\MobileApp\source\TabsWithSwipeGesture1\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\eCOMMERCE\MobileApp\source\TabsWithSwipeGesture1\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_a30d1e9e37acdadca2f17bcd3b8967cf69c19291\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\eCOMMERCE\MobileApp\source\TabsWithSwipeGesture1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bb11fe0dba3dcd5b1f82e1b5019f0ac705a382e4">
+        <dex dex="C:\eCOMMERCE\MobileApp\source\TabsWithSwipeGesture1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0824ed12eeae0abf3cac197178e2d007cef3bd36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\eCOMMERCE\MobileApp\source\TabsWithSwipeGesture1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f1c60080421f9c7492d6748455fc605dedc06b84">
+        <dex dex="C:\eCOMMERCE\MobileApp\source\TabsWithSwipeGesture1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_04c5b74ca98eec4fb1a5773be2221f640e0b8ca4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\eCOMMERCE\MobileApp\source\TabsWithSwipeGesture1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\eCOMMERCE\MobileApp\source\TabsWithSwipeGesture1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_4b3a31592712a284ff52156c84c6ca92d06f16b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\eCOMMERCE\MobileApp\source\TabsWithSwipeGesture1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_fe7480820c20c289a17422f6ee907fbcc1697ea1\classes.dex" />
+    </item>
+
+</items>
